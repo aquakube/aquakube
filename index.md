@@ -1,5 +1,3 @@
-# Scaling Innovation Through Collaboration!
-
 The AquaKube is a vibrant Community that spans aquaculuture equipment, digital platforms, and data worldwide.
 
 Though not a standards body, the AquaKube Community forges new technology norms, fostering an ecosystem where industry players collaborate in a safe framework, shaping a versatile and diverse supply chain.
