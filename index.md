@@ -10,7 +10,4 @@ The AquaKube Foundation is responsible for fostering, serving and seeding the Aq
 | Farming quipment | Software | Data ML/AI/DL |
 | ------------------------------------- | ------------------------------- | ------------------------------------ |
 | <img src="images/aquafarm.png" width="200" height="100"> | <img src="images/AquaDigital.png" width="200"  height="100"> | <img src="images/AquaData.png" width="300"  height="100"> |
-
-| <p>Open specifications for building aquaculture equipment including, feeding, cameras, power, networking </p> | 
-  <p>Software to manage and process farm equipment </p> | 
-  <p>Normalized data collection and datasets for building AI/ML/DL tools </p> |
+| Feeding systems | Command & Control | bio metrics |
