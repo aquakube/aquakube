@@ -10,5 +10,5 @@ The AquaKube Foundation is responsible for fostering, serving and seeding the Aq
 
 
 | <img src="images/aquafarm.png" width="200"> | <img src="images/AquaDigital.png" width="200"> | <img src="images/AquaData.png" width="300"> |
-| <img src="images/aquafarm.png width="200"> | <img src="images/AquaDigital.png" width="200"> | <img src="images/AquaData.png" width="300"> |
+
 | Open specifications for building aquaculture equipment including, feeding, cameras, power, networking | Software to manage and process farm equipment | Normalized data collection and datasets for building AI/ML/DL tools |
