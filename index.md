@@ -10,4 +10,10 @@ The AquaKube Foundation is responsible for fostering, serving and seeding the Aq
 | Farming quipment | Software | Data ML/AI/DL |
 | ------------------------------------- | ------------------------------- | ------------------------------------ |
 | <img src="images/aquafarm.png" width="200" height="100"> | <img src="images/AquaDigital.png" width="200"  height="100"> | <img src="images/AquaData.png" width="300"  height="100"> |
-| Feeding systems | Command & Control | bio metrics |
+| Feeding systems | Command & Control | Bio metrics |
+| Bio camera | IoT | Environment |
+| Power hubs | Biomass | Impact modeling |
+| Feeding cameras | Auditing | Health |
+| Security cameras | Recording | Growth |
+
+
